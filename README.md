@@ -19,10 +19,10 @@ A single table Amazon_Orders was created to store and analyze all this data effi
 
 ### 1. Revenue & Growth Trends
 What we did
-- We analyzed monthly revenue and total number of orders using aggregation functions.
+We analyzed monthly revenue and total number of orders using aggregation functions.
 
 What we found
-- This helps track business growth over time, showing which months performed well and identifying seasonal patterns or drops in sales.
+This helps track business growth over time, showing which months performed well and identifying seasonal patterns or drops in sales.
 
 ### Top Selling Products & Categories
 What we did
